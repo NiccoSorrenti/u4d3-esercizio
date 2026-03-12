@@ -14,7 +14,7 @@ public class Sim {
     }
 
     public void stampaDatiSim() {
-
+        
     }
 
     @Override
